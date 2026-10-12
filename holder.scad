@@ -1,5 +1,5 @@
-len_phone = 145;
-width_phone = 56;
+len_phone = 155;
+width_phone = 70;
 d_screw_m4 = 4.5;
 thickness_holder = 4;
 
